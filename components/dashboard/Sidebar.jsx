@@ -5,7 +5,7 @@ import SubscriptionCard from "./SubscriptionCard";
 
 export default function Sidebar() {
   return (
-    <div className="w-56 min-h-screen bg-blue-50 text-teal-600 border  fixed">
+    <div className="w-56 min-h-screen bg-slate-50 text-teal-600 border  fixed">
       {/* Top part */}
       <div className="flex flex-col">
         {/* Logo */}
